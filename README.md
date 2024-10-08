@@ -1,4 +1,4 @@
-# ConectAPP Latam
+# ConectAPP Latam 2024
 
 ConectAPP Latam es una aplicación que permite a los estudiantes de la Universidad Pontificia Bolivariana conectar con profesores y otros estudiantes avanzados para agendar clases.
 
